@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-11-17_16-46-18_UTC
-// COMMIT: cd0dea17c489886c23f306a1114accb74edcdc48
+// VERSION: 2025-11-24_08-25-37_UTC
+// COMMIT: bf4f2d47e2b6a58eb160df6deba3acb217f7f9a2
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -16081,6 +16081,10 @@ u2-local.xnbay.com
 cistron.nl
 demon.nl
 xs4all.space
+
+// xTool : https://xtool.com
+// Submitted by Echo <admin@xtool.com>
+xtooldevice.com
 
 // Yandex.Cloud LLC : https://cloud.yandex.com
 // Submitted by Alexander Lodin <security+psl@yandex-team.ru>
